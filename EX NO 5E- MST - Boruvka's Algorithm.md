@@ -1,6 +1,6 @@
 # EX 5E Minimum Spanning Tree -Boruvka's Algorithm
 
-## DATE: 08.09.2026
+## DATE: 10.09.2026
 
 ### Developed By: SUNIL KUMAR P.B.
 
